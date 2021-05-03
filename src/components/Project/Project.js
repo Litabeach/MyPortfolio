@@ -19,7 +19,7 @@ function Project(props) {
           <a href={props.githublink} className="hover-img">
             <img src={props.image1} className="img-fluid port-image"
               alt={props.alt1} />
-            <img src={props.image2}
+            <img src={props.image2} className="img-fluid port-image"
               alt={props.alt2} />
           </a>
         </div>

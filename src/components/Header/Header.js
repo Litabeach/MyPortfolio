@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 import { Link } from "react-router-dom";
+import resume from "../../assets/LitaBeachResume.pdf"
 
 function Header() {
     return (
@@ -48,7 +49,7 @@ function Header() {
                         </Link>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="02-CSS-Bootstrap/Assets/LitaBeachResume.pdf">Resume</a>
+                        <a className="nav-link" href={resume}>Resume</a>
                     </li>
                 </ul>
             </div>

@@ -23,9 +23,6 @@ function App() {
           <Route exact path="/portfolio">
             <Portfolio />
           </Route>
-          {/* <Route>
-            <NoMatch />
-          </Route> */}
         </Switch>
         <Footer />
       </div>
