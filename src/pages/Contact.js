@@ -10,7 +10,7 @@ function Contact() {
 
 
     return (
-        <div>
+        <div className="contact-info">
             <h3>Contact Lita:</h3>
             <h5>Email:</h5>
             <a href="mailto:litabeach123@gmail.com" className="links" >

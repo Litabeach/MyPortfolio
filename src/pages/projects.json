@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "Cup of Sugar",
+      "description": "An app for neighbors to offer and request goods and services.",
+      "tech": "Cup of Sugar utilizes MVC architecture, Node, Express, MySQL, Sequelize, Handlebars, jQuery, JavaScript, Bcrypt and CSS.",
+      "image1": "Images/cupofsugar.png",
+      "alt1": "a screenshot of the home page of the cup of sugar app",
+      "image2": "Images/cupofsugar2.png",
+      "alt2": "a screenshot of the search page of the cup of sugar app",
+      "githublink": "https://github.com/Litabeach/Cup-of-Sugar",
+      "deployedlink": "https://cup-of-sugar-application.herokuapp.com/"
+    },
+    {
+      "id": 1,
+      "title": "Cup of Sugar",
+      "description": "An app for neighbors to offer and request goods and services.",
+      "tech": "Cup of Sugar utilizes MVC architecture, Node, Express, MySQL, Sequelize, Handlebars, jQuery, JavaScript, Bcrypt and CSS.",
+      "image1": "Images/cupofsugar.png",
+      "alt1": "a screenshot of the home page of the cup of sugar app",
+      "image2": "Images/cupofsugar2.png",
+      "alt2": "a screenshot of the search page of the cup of sugar app",
+      "githublink": "https://github.com/Litabeach/Cup-of-Sugar",
+      "deployedlink": "https://cup-of-sugar-application.herokuapp.com/"
+    },
+    {
+      "id": 1,
+      "title": "Cup of Sugar",
+      "description": "An app for neighbors to offer and request goods and services.",
+      "tech": "Cup of Sugar utilizes MVC architecture, Node, Express, MySQL, Sequelize, Handlebars, jQuery, JavaScript, Bcrypt and CSS.",
+      "image1": "Images/cupofsugar.png",
+      "alt1": "a screenshot of the home page of the cup of sugar app",
+      "image2": "Images/cupofsugar2.png",
+      "alt2": "a screenshot of the search page of the cup of sugar app",
+      "githublink": "https://github.com/Litabeach/Cup-of-Sugar",
+      "deployedlink": "https://cup-of-sugar-application.herokuapp.com/"
+    },
+    {
+      "id": 1,
+      "title": "Cup of Sugar",
+      "description": "An app for neighbors to offer and request goods and services.",
+      "tech": "Cup of Sugar utilizes MVC architecture, Node, Express, MySQL, Sequelize, Handlebars, jQuery, JavaScript, Bcrypt and CSS.",
+      "image1": "Images/cupofsugar.png",
+      "alt1": "a screenshot of the home page of the cup of sugar app",
+      "image2": "Images/cupofsugar2.png",
+      "alt2": "a screenshot of the search page of the cup of sugar app",
+      "githublink": "https://github.com/Litabeach/Cup-of-Sugar",
+      "deployedlink": "https://cup-of-sugar-application.herokuapp.com/"
+    },
+    {
+      "id": 1,
+      "title": "Cup of Sugar",
+      "description": "An app for neighbors to offer and request goods and services.",
+      "tech": "Cup of Sugar utilizes MVC architecture, Node, Express, MySQL, Sequelize, Handlebars, jQuery, JavaScript, Bcrypt and CSS.",
+      "image1": "Images/cupofsugar.png",
+      "alt1": "a screenshot of the home page of the cup of sugar app",
+      "image2": "Images/cupofsugar2.png",
+      "alt2": "a screenshot of the search page of the cup of sugar app",
+      "githublink": "https://github.com/Litabeach/Cup-of-Sugar",
+      "deployedlink": "https://cup-of-sugar-application.herokuapp.com/"
+    },
+    {
+      "id": 1,
+      "title": "Cup of Sugar",
+      "description": "An app for neighbors to offer and request goods and services.",
+      "tech": "Cup of Sugar utilizes MVC architecture, Node, Express, MySQL, Sequelize, Handlebars, jQuery, JavaScript, Bcrypt and CSS.",
+      "image1": "Images/cupofsugar.png",
+      "alt1": "a screenshot of the home page of the cup of sugar app",
+      "image2": "Images/cupofsugar2.png",
+      "alt2": "a screenshot of the search page of the cup of sugar app",
+      "githublink": "https://github.com/Litabeach/Cup-of-Sugar",
+      "deployedlink": "https://cup-of-sugar-application.herokuapp.com/"
+    }
+  ]
+  
