@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import EmailIcon from '../Images/email.jpg';
 import PhoneIcon from '../Images/phone.jpg';
 import GithubIcon from '../Images/githubicon.png';
