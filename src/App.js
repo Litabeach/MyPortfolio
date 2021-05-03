@@ -11,15 +11,18 @@ function App() {
       <div>
         <Nav />
         <Switch>
-          <Route exact path={["/", "/books"]}>
-            <Books />
+          <Route exact path={["/", "/home"]}>
+            <Home />
           </Route>
-          <Route exact path="/books/:id">
-            <Detail />
+          <Route exact path="/contact">
+            <Contact />
           </Route>
-          <Route>
+          <Route exact path="/portfolio">
+            <Portfolio />
+          </Route>
+          {/* <Route>
             <NoMatch />
-          </Route>
+          </Route> */}
         </Switch>
       </div>
     </Router>
