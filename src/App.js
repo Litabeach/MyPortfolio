@@ -3,13 +3,14 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
-import Nav from "./components/Header/Header";
+import Header from "./components/Header/Header";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
     <Router>
       <div>
-        <Nav />
+        <Header />
         <Switch>
           <Route exact path={["/", "/home"]}>
             <Home />
@@ -24,8 +25,10 @@ function App() {
             <NoMatch />
           </Route> */}
         </Switch>
+        <Footer />
       </div>
     </Router>
+    
   );
 }
 
