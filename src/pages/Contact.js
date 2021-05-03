@@ -1,8 +1,8 @@
 import React from "react";
-import EmailIcon from '../Images/email.jpg';
-import PhoneIcon from '../Images/phone.jpg';
-import GithubIcon from '../Images/githubicon.png';
-import LinkedInIcon from '../Images/linkedinicon.jpg';
+import EmailIcon from '../images/email.jpg';
+import PhoneIcon from '../images/phone.jpg';
+import GithubIcon from '../images/githubicon.png';
+import LinkedInIcon from '../images/linkedinicon.jpg';
 import "./style.css";
 
 
