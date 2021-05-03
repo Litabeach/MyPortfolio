@@ -1,10 +1,10 @@
 import React from "react";
-import "./style.css";
+import "./footer.css";
 
 
 function Footer() {
     return (
-      <h1>Footer Div Here</h1>
+      <p>Copyright 2021 Lita Beach</p>
     );
 }
 
