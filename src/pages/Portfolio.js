@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Project from "../components/Project/Project";
-import projects from "./projects.json";
+import projects from "../components/Project/projects.json";
 
 
 class Portfolio extends Component {
@@ -18,9 +18,15 @@ class Portfolio extends Component {
             <Project
             id={project.id}
             key={project.id}
-            name={project.name}
+            title={project.title}
             description={project.description}
             tech={project.tech}
+            deployedlink={project.deployedlink}
+            githublink={project.githublink}
+            image1={project.image1}
+            image2={project.image2}
+            alt1={project.alt1}
+            alt2={project.alt2}
             />
           ))}
      </div>
