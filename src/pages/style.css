@@ -1,10 +1,11 @@
 .contact-info {
     background-color:rgb(121, 139, 108);
-    width: 50%;
+    width: 25%;
     margin: auto;
-    padding: 20px;
+    padding: 30px;
     border-radius: 10%;
     color:whitesmoke;
+    margin-top: 20px;
   }
 
 
@@ -16,6 +17,7 @@
 .icon {
     height: 40px;
     margin-bottom: 5px;
+    margin-right: 5px;
     border-radius: 20%;
   }
 

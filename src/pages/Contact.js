@@ -13,14 +13,14 @@ function Contact() {
         <div className="contact-info">
             <h3>Contact Lita:</h3>
             <h5>Email:</h5>
-            <a href="mailto:litabeach123@gmail.com" className="links" >
-            <img className="img img thumbnail icon" src={EmailIcon} alt={"email icon"} />
-                litabeach123@gmail.com </a> 
+            <a href="mailto:litabeach123@gmail.com" className="links" >  
+            <img className="img img thumbnail icon" src={EmailIcon} alt={"email icon"}/>    
+                   litabeach123@gmail.com </a> 
 
             <h5>Phone:</h5>
             <a href="tel:612-558-4804" className="links" >
             <img className="img img thumbnail icon" src={PhoneIcon} alt={"phone icon"} />
-                612-558-4804</a> 
+                   612-558-4804</a> 
             
             <h5>Github:</h5>
             <a href="https://github.com/Litabeach" className="links" >
