@@ -16,33 +16,21 @@
       "title": "Travel Today",
       "description": " A travel app that does the hard work for you!",
       "tech": " Travel Today utilizes Google Places API, Google Maps API, jQuery, JavaScript, Bootstrap and CSS.",
-      "image1":  "../images/traveltoday1.png",
-      "alt1": "a light blue logo for a travel app that incorporates a knife and fork and a suitcase",
-      "image2":  "../images/traveltoday2.png",
-      "alt2": "screenshot of travel today app",
+      "image1":  "https://github.com/Litabeach/Travel-Today/raw/main/Assets/screenshot.png",
+      "alt1": "travel today homepage",
+      "image2":  "https://github.com/Litabeach/Travel-Today/raw/main/Assets/screenshot.png",
+      "alt2": "screenshot of travel today app search",
       "githublink": "https://github.com/Litabeach/Travel-Today",
       "deployedlink": "https://litabeach.github.io/Travel-Today/"
-    },
-    {
-      "id": 3,
-      "title": "Employee Roster Generator",
-      "description": "Generate an employee roster for any team that includes a manager, engineers and interns. Inputs are tailored to job position.",
-      "tech": "Employee Roster Generator was built with Node, Inquirer, and Javascript. Tested with Jest.",
-      "image1": "Images/cupofsugar.png",
-      "alt1": "screenshot of employee roster app",
-      "image2": "Images/cupofsugar2.png",
-      "alt2":  "screenshot of employee roster results",
-      "githublink": "https://github.com/Litabeach/Employee-Roster-Generator",
-      "deployedlink": "https://youtu.be/RPyup1ef7xA"
     },
     {
       "id": 4,
       "title": "Workout Tracker",
       "description": "An app to view, create, and track daily workouts. Statistics for the last 7 workouts workouts are available on the stats page. ",
       "tech": "Built with MongoDB, Mongoose, Node and Express",
-      "image1": "https://github.com/Litabeach/Workout-Tracker/blob/main/public/images/homepage.png",
+      "image1": "https://github.com/Litabeach/Workout-Tracker/raw/main/public/images/homepage.png",
       "alt1": "a screenshot of the home page of the workout app",
-      "image2": "https://github.com/Litabeach/Workout-Tracker/blob/main/public/images/stats.png",
+      "image2": "https://github.com/Litabeach/Workout-Tracker/raw/main/public/images/stats.png",
       "alt2": "a screenshot of the stats page of the workout app",
       "githublink": "https://github.com/Litabeach/Workout-Tracker",
       "deployedlink": "https://shielded-dusk-73422.herokuapp.com/"
@@ -52,9 +40,9 @@
       "title": "Work-E-Pedia",
       "description": "View a directory of employees. Sort and search the directory by name.",
       "tech": "Built with React",
-      "image1": "https://github.com/Litabeach/React-Employee-Directory/raw/main/public/screenshot2.png",
+      "image1": "https://github.com/Litabeach/React-Employee-Directory/raw/main/public/screenshot.png",
       "alt1": "a screenshot of home page of Work-E-Pedia",
-      "image2": "https://github.com/Litabeach/Work-E-Pedia/blob/main/public/screenshot.png",
+      "image2": "https://github.com/Litabeach/React-Employee-Directory/raw/main/public/screenshot2.png",
       "alt2": "a screenshot of the a search on Work-E-Pedia",
       "githublink": "https://github.com/Litabeach/React-Employee-Directory//",
       "deployedlink": "https://litabeach.github.io/React-Employee-Directory/"
@@ -70,6 +58,18 @@
       "alt2": "a screenshot of the budget anywhere app offline",
       "githublink": "https://github.com/Litabeach/Budget-Anywhere",
       "deployedlink": "https://budget-anywhere.herokuapp.com/"
+    },
+    {
+      "id": 3,
+      "title": "Employee Roster Generator",
+      "description": "Generate an employee roster for any team that includes a manager, engineers and interns. Inputs are tailored to job position.",
+      "tech": "Employee Roster Generator was built with Node, Inquirer, and Javascript. Tested with Jest.",
+      "image1": "Images/cupofsugar.png",
+      "alt1": "screenshot of employee roster app",
+      "image2": "Images/cupofsugar2.png",
+      "alt2":  "screenshot of employee roster results",
+      "githublink": "https://github.com/Litabeach/Employee-Roster-Generator",
+      "deployedlink": "https://youtu.be/RPyup1ef7xA"
     }
   ]
   
