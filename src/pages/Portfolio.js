@@ -13,8 +13,9 @@ class Portfolio extends Component {
     render() {
       return (
      <div>
-         <h1>Projects</h1>
           {this.state.projects.map(project => (
+            <div>
+            <br></br>
             <Project
             id={project.id}
             key={project.id}
@@ -28,6 +29,8 @@ class Portfolio extends Component {
             alt1={project.alt1}
             alt2={project.alt2}
             />
+            <br></br>
+            </div>
           ))}
      </div>
       );

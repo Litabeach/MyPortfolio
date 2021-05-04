@@ -35,6 +35,11 @@
   color:whitesmoke;
 }
 
+.port-image{
+  width: 800px;
+  margin:auto
+}
+
 .text{
   margin-top: 5%;
   background-color: rgb(121, 139, 108);

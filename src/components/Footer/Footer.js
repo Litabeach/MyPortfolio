@@ -4,7 +4,9 @@ import "./footer.css";
 
 function Footer() {
     return (
-      <p>Copyright 2021 Lita Beach</p>
+      <div className="footer">
+      <p>© 2021 Lita Beach</p>
+      </div>
     );
 }
 
