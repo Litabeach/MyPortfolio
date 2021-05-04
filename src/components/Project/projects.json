@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      "id": 10,
       "title": "Cup of Sugar",
       "description": "An app for neighbors to offer and request goods and services.",
       "tech": "Cup of Sugar utilizes MVC architecture, Node, Express, MySQL, Sequelize, Handlebars, jQuery, JavaScript, Bcrypt and CSS.",
@@ -12,7 +12,7 @@
       "deployedlink": "https://cup-of-sugar-application.herokuapp.com/"
     },
     {
-      "id": 2,
+      "id": 20,
       "title": "Travel Today",
       "description": " A travel app that does the hard work for you!",
       "tech": " Travel Today utilizes Google Places API, Google Maps API, jQuery, JavaScript, Bootstrap and CSS.",
@@ -24,7 +24,7 @@
       "deployedlink": "https://litabeach.github.io/Travel-Today/"
     },
     {
-      "id": 4,
+      "id": 40,
       "title": "Workout Tracker",
       "description": "An app to view, create, and track daily workouts. Statistics for the last 7 workouts workouts are available on the stats page. ",
       "tech": "Built with MongoDB, Mongoose, Node and Express",
@@ -36,7 +36,7 @@
       "deployedlink": "https://shielded-dusk-73422.herokuapp.com/"
     },
     {
-      "id": 5,
+      "id": 50,
       "title": "Work-E-Pedia",
       "description": "View a directory of employees. Sort and search the directory by name.",
       "tech": "Built with React",
@@ -48,7 +48,7 @@
       "deployedlink": "https://litabeach.github.io/React-Employee-Directory/"
     },
     {
-      "id": 6,
+      "id": 60,
       "title": "Budget Anywhere",
       "description": "An app for users to add expenses and deposits to their budget. Users are able to enter transactions offline. The transactions entered offline will automatically be populated to the database when the user regains internet connection..",
       "tech": "Built with IndexDB, Mongoose, Mongo, MongoDB Atlas, Javascript, Express, and Node.js.",
@@ -60,7 +60,7 @@
       "deployedlink": "https://budget-anywhere.herokuapp.com/"
     },
     {
-      "id": 3,
+      "id": 30,
       "title": "Employee Roster Generator",
       "description": "Generate an employee roster for any team that includes a manager, engineers and interns. Inputs are tailored to job position.",
       "tech": "Employee Roster Generator was built with Node, Inquirer, and Javascript. Tested with Jest.",

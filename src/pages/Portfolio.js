@@ -4,12 +4,10 @@ import projects from "../components/Project/projects.json";
 
 
 class Portfolio extends Component {
-    // Setting this.state.friends to the friends json array
     state = {
       projects
     };
   
-    // Map over this.state.friends and render a FriendCard component for each friend object
     render() {
       return (
      <div>
