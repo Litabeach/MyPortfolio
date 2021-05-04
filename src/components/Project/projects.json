@@ -37,39 +37,39 @@
     },
     {
       "id": 4,
-      "title": "Cup of Sugar",
-      "description": "An app for neighbors to offer and request goods and services.",
-      "tech": "Cup of Sugar utilizes MVC architecture, Node, Express, MySQL, Sequelize, Handlebars, jQuery, JavaScript, Bcrypt and CSS.",
-      "image1": "Images/cupofsugar.png",
-      "alt1": "a screenshot of the home page of the cup of sugar app",
-      "image2": "Images/cupofsugar2.png",
-      "alt2": "a screenshot of the search page of the cup of sugar app",
-      "githublink": "https://github.com/Litabeach/Cup-of-Sugar",
-      "deployedlink": "https://cup-of-sugar-application.herokuapp.com/"
+      "title": "Workout Tracker",
+      "description": "An app to view, create, and track daily workouts. Statistics for the last 7 workouts workouts are available on the stats page. ",
+      "tech": "Built with MongoDB, Mongoose, Node and Express",
+      "image1": "https://github.com/Litabeach/Workout-Tracker/blob/main/public/images/homepage.png",
+      "alt1": "a screenshot of the home page of the workout app",
+      "image2": "https://github.com/Litabeach/Workout-Tracker/blob/main/public/images/stats.png",
+      "alt2": "a screenshot of the stats page of the workout app",
+      "githublink": "https://github.com/Litabeach/Workout-Tracker",
+      "deployedlink": "https://shielded-dusk-73422.herokuapp.com/"
     },
     {
       "id": 5,
-      "title": "Cup of Sugar",
-      "description": "An app for neighbors to offer and request goods and services.",
-      "tech": "Cup of Sugar utilizes MVC architecture, Node, Express, MySQL, Sequelize, Handlebars, jQuery, JavaScript, Bcrypt and CSS.",
-      "image1": "Images/cupofsugar.png",
-      "alt1": "a screenshot of the home page of the cup of sugar app",
-      "image2": "Images/cupofsugar2.png",
-      "alt2": "a screenshot of the search page of the cup of sugar app",
-      "githublink": "https://github.com/Litabeach/Cup-of-Sugar",
-      "deployedlink": "https://cup-of-sugar-application.herokuapp.com/"
+      "title": "Work-E-Pedia",
+      "description": "View a directory of employees. Sort and search the directory by name.",
+      "tech": "Built with React",
+      "image1": "https://github.com/Litabeach/React-Employee-Directory/raw/main/public/screenshot2.png",
+      "alt1": "a screenshot of home page of Work-E-Pedia",
+      "image2": "https://github.com/Litabeach/Work-E-Pedia/blob/main/public/screenshot.png",
+      "alt2": "a screenshot of the a search on Work-E-Pedia",
+      "githublink": "https://github.com/Litabeach/React-Employee-Directory//",
+      "deployedlink": "https://litabeach.github.io/React-Employee-Directory/"
     },
     {
       "id": 6,
-      "title": "Cup of Sugar",
-      "description": "An app for neighbors to offer and request goods and services.",
-      "tech": "Cup of Sugar utilizes MVC architecture, Node, Express, MySQL, Sequelize, Handlebars, jQuery, JavaScript, Bcrypt and CSS.",
-      "image1": "Images/cupofsugar.png",
-      "alt1": "a screenshot of the home page of the cup of sugar app",
-      "image2": "Images/cupofsugar2.png",
-      "alt2": "a screenshot of the search page of the cup of sugar app",
-      "githublink": "https://github.com/Litabeach/Cup-of-Sugar",
-      "deployedlink": "https://cup-of-sugar-application.herokuapp.com/"
+      "title": "Budget Anywhere",
+      "description": "An app for users to add expenses and deposits to their budget. Users are able to enter transactions offline. The transactions entered offline will automatically be populated to the database when the user regains internet connection..",
+      "tech": "Built with IndexDB, Mongoose, Mongo, MongoDB Atlas, Javascript, Express, and Node.js.",
+      "image1": "https://github.com/Litabeach/Budget-Anywhere/raw/main/public/images/budget.png",
+      "alt1": "a screenshot of the budget anywhere app online",
+      "image2": "https://github.com/Litabeach/Budget-Anywhere/raw/main/public/images/screenshot2.png",
+      "alt2": "a screenshot of the budget anywhere app offline",
+      "githublink": "https://github.com/Litabeach/Budget-Anywhere",
+      "deployedlink": "https://budget-anywhere.herokuapp.com/"
     }
   ]
   
