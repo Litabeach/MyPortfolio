@@ -11,14 +11,14 @@ import "./style.css";
 function Home() {
   
       return (
-        <main class="container">
-        <div class="row">
-          <div class="col-lg-3 headshot">
-            <img class="img img thumbnail headshot" src={Headshot}
+        <main className="container">
+        <div className="row">
+          <div className="col-lg-3 headshot">
+            <img className="img img thumbnail headshot" src={Headshot}
               alt="headshot of a woman smiling." />
           </div>
     
-          <div class="col-lg-9 contact-info text"  id="aboutMe">
+          <div className="col-lg-9 contact-info text"  id="aboutMe">
             <p>Enthusiastic entry level web developer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including Javascript, Node, mySQL, Sequelize, Express, APIs, Handlebars, HTML5, CSS, and Bootstrap.  Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
             </p>
             <p>
@@ -29,19 +29,19 @@ function Home() {
             </p>
             <p id="media-links"> Connect with Lita: <br></br>
             <a href="tel:612-558-4804">
-              <img class="img img thumbnail icon" src={PhoneIcon} alt="phone icon" />
+              <img className="img img thumbnail icon" src={PhoneIcon} alt="phone icon" />
             </a>
             <a href="mailto:litabeach123@gmail.com">
-              <img class="img img thumbnail icon" src={EmailIcon} alt ="email icon" />
+              <img className="img img thumbnail icon" src={EmailIcon} alt ="email icon" />
             </a>
             <a href="https://github.com/Litabeach">
-              <img class="img img thumbnail icon" src={GithubIcon} alt ="github icon" />
+              <img className="img img thumbnail icon" src={GithubIcon} alt ="github icon" />
             </a>
             <a href="https://www.linkedin.com/in/lita-beach">
-              <img class="img img thumbnail icon" src={LinkedInIcon} alt = "linkedin icon" />
+              <img className="img img thumbnail icon" src={LinkedInIcon} alt = "linkedin icon" />
             </a>
             <a href="https://www.facebook.com/lita.beach/">
-              <img class="img img thumbnail icon" src={FBIcon} alt ="facebook icon" />
+              <img className="img img thumbnail icon" src={FBIcon} alt ="facebook icon" />
             </a>
             </p>
           </div>

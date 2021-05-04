@@ -40,21 +40,3 @@ class Portfolio extends Component {
   export default Portfolio;
   
 
-
-
-// function Portfolio() {
-
-
-//     return (
-
-//         <div>
-//             <h1>Portfolio</h1>
-//             <Project />
-
-
-//         </div>
-//     );
-// }
-
-
-// export default Portfolio;
