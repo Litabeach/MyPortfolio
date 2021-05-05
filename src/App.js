@@ -14,13 +14,13 @@ function App() {
       <div>
         <Header />
         <Switch>
-          <Route exact path={["React-Portfolio/", "/home"]}>
+          <Route path={["React-Portfolio/", "React-Portfolio//home"]}>
             <Home />
           </Route>
-          <Route exact path="React-Portfolio//contact">
+          <Route path="React-Portfolio//contact">
             <Contact />
           </Route>
-          <Route exact path="React-Portfolio//portfolio">
+          <Route path="React-Portfolio//portfolio">
             <Portfolio />
           </Route>
         </Switch>
