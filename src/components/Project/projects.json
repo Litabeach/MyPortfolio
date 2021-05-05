@@ -18,7 +18,7 @@
       "tech": " Travel Today utilizes Google Places API, Google Maps API, jQuery, JavaScript, Bootstrap and CSS.",
       "image1":  "https://github.com/Litabeach/Travel-Today/raw/main/Assets/screenshot.png",
       "alt1": "travel today homepage",
-      "image2":  "https://github.com/Litabeach/Portfolio/blob/main/02-CSS-Bootstrap/Assets/Images2/traveltoday2.png",
+      "image2":  "https://github.com/Litabeach/Portfolio/blob/main/02-CSS-Bootstrap/Assets/Images2/traveltoday2.png?raw=true",
       "alt2": "screenshot of travel today app search",
       "githublink": "https://github.com/Litabeach/Travel-Today",
       "deployedlink": "https://litabeach.github.io/Travel-Today/"
