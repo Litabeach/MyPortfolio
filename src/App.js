@@ -10,17 +10,17 @@ import "./App.css";
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div>
         <Header />
         <Switch>
-          <Route path={["React-Portfolio/", "React-Portfolio//home"]}>
+          <Route exact path={["/", "/home"]}>
             <Home />
           </Route>
-          <Route path="React-Portfolio//contact">
+          <Route exact path="/contact">
             <Contact />
           </Route>
-          <Route path="React-Portfolio//portfolio">
+          <Route exact path="/portfolio">
             <Portfolio />
           </Route>
         </Switch>
