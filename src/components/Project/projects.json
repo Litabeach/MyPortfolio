@@ -64,7 +64,7 @@
       "title": "Employee Roster Generator",
       "description": "Generate an employee roster for any team that includes a manager, engineers and interns. Inputs are tailored to job position.",
       "tech": "Employee Roster Generator was built with Node, Inquirer, and Javascript. Tested with Jest.",
-      "image1": "https://github.com/Litabeach/Employee-Roster-Generator/raw/main/Assets/output.png",
+      "image1": "https://github.com/Litabeach/Portfolio/blob/main/02-CSS-Bootstrap/Assets/Images2/output.png?raw=true",
       "alt1": "screenshot of employee roster app",
       "image2": "https://github.com/Litabeach/Employee-Roster-Generator/raw/main/Assets/runit.png",
       "alt2":  "screenshot of employee roster results",
@@ -73,3 +73,4 @@
     }
   ]
   
+ 
