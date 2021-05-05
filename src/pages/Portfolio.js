@@ -12,11 +12,10 @@ class Portfolio extends Component {
       return (
      <div>
           {this.state.projects.map(project => (
-            <div>
+            <div key={project.id}>
             <br></br>
             <Project
             id={project.id}
-            key={project.id}
             title={project.title}
             description={project.description}
             tech={project.tech}

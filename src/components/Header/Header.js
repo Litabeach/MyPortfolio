@@ -3,6 +3,7 @@ import "./style.css";
 import { Link } from "react-router-dom";
 import resume from "../../assets/LitaBeachResume.pdf"
 
+
 function Header() {
     return (
         <nav className="navbar navbar-dark navbar-expand-md justify-content-center">
@@ -13,43 +14,13 @@ function Header() {
             <div className="navbar-collapse collapse w-100" id="collapsingNavbar3">
                 <ul className="nav navbar-nav ml-auto w-100 justify-content-end">
                     <li className="nav-item">
-                        <Link
-                            to="/"
-                            className={
-                                window.location.pathname === "/" || window.location.pathname === "/home"
-                                    ? "nav-link active"
-                                    : "nav-link"
-                            }
-                        >
-                            About
-                        </Link>
-                    </li>
+                    <Link to="/" className="nav-link" activeClassName="nav-link active">About</Link></li>
                     <li className="nav-item">
-                        <Link
-                            to="/contact"
-                            className={
-                                window.location.pathname === "/contact" 
-                                    ? "nav-link active"
-                                    : "nav-link"
-                            }
-                        >
-                           Contact
-                        </Link>
-                    </li>
+                    <Link to="/contact" className="nav-link" activeClassName="nav-link active">Contact</Link></li>
                     <li className="nav-item">
-                        <Link
-                            to="/portfolio"
-                            className={
-                                window.location.pathname === "/portfolio" 
-                                    ? "nav-link active"
-                                    : "nav-link"
-                            }
-                        >
-                            Portfolio
-                        </Link>
-                    </li>
+                    <Link to="/portfolio" className="nav-link" activeClassName="nav-link active">Portfolio</Link></li>
                     <li className="nav-item">
-                        <a className="nav-link" href={resume}>Resume</a>
+                        <a className="nav-link" activeClassName="nav-link active" href={resume}>Resume</a>
                     </li>
                 </ul>
             </div>
