@@ -21,9 +21,9 @@ function Home() {
           <div className="col-lg-9 contact-info text"  id="aboutMe">
             <p>Enthusiastic entry level web developer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including Javascript, Node, mySQL, Sequelize, Express, APIs, Handlebars, HTML5, CSS, and Bootstrap.  Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
             </p>
-            <p>
+            {/* <p>
               Her educational background is in full stack web development at the University of Minnesota Web Development Bootcamp. At the end of the program, she will have the tools to design and create professional, easy to use websites.
-            </p>
+            </p> */}
             <p>On her days off she enjoys gardening, playing bass guitar, listening to audiobooks, and cuddling with her two
               cats.
             </p>

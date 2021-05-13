@@ -24,6 +24,18 @@
       "deployedlink": "https://litabeach.github.io/Travel-Today/"
     },
     {
+      "id": 30,
+      "title": "Book Worm",
+      "description": "A React-based Google Books Search app. Users can search for books, view and purchase them in Google books, and save them to their bookshelf. Books in the bookshelf can be viewed or deleted.",
+      "tech": "Book Worm is a full stack MERN application that utilizes Mongoose",
+      "image1": "https://github.com/Litabeach/BookWorm/raw/main/client/src/images/search.png",
+      "alt1": "screenshot of book worm search",
+      "image2": "https://github.com/Litabeach/BookWorm/raw/main/client/src/images/bookshelf.png",
+      "alt2":  "screenshot of book worm bookshelf",
+      "githublink": "https://github.com/Litabeach/Employee-Roster-Generator",
+      "deployedlink": "https://bookworm-application.herokuapp.com/"
+    },
+    {
       "id": 40,
       "title": "Workout Tracker",
       "description": "An app to view, create, and track daily workouts. Statistics for the last 7 workouts workouts are available on the stats page. ",
@@ -58,19 +70,8 @@
       "alt2": "a screenshot of the budget anywhere app offline",
       "githublink": "https://github.com/Litabeach/Budget-Anywhere",
       "deployedlink": "https://budget-anywhere.herokuapp.com/"
-    },
-    {
-      "id": 30,
-      "title": "Employee Roster Generator",
-      "description": "Generate an employee roster for any team that includes a manager, engineers and interns. Inputs are tailored to job position.",
-      "tech": "Employee Roster Generator was built with Node, Inquirer, and Javascript. Tested with Jest.",
-      "image1": "https://github.com/Litabeach/Portfolio/blob/main/02-CSS-Bootstrap/Assets/Images2/output.png?raw=true",
-      "alt1": "screenshot of employee roster app",
-      "image2": "https://github.com/Litabeach/Employee-Roster-Generator/raw/main/Assets/runit.png",
-      "alt2":  "screenshot of employee roster results",
-      "githublink": "https://github.com/Litabeach/Employee-Roster-Generator",
-      "deployedlink": "https://youtu.be/RPyup1ef7xA"
     }
+   
   ]
   
  
