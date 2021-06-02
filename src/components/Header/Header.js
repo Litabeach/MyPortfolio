@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import { Link } from "react-router-dom";
-import resume from "../../assets/LitaBeachResume.pdf"
+import resume from "../../assets/Lita-Beach-Resume.pdf"
 
 
 function Header() {
