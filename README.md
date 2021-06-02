@@ -4,7 +4,7 @@
 
 A reactive, mobile responsive portfolio. Contains a home page, a contact page, and a portfolio. Built with React.
 
-Published at: https://litabeach.github.io/MyPortfolio/#/
+Published at: https://litabeach.github.io/React-Portfolio/
 
 
 ## Table of Contents
