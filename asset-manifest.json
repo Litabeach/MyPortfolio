@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.ef83a70a.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.097f609a.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.097f609a.chunk.js.map",
-    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.48332091.js",
-    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.48332091.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/React-Portfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.ac2cd7b1.chunk.js": "/React-Portfolio/static/js/2.ac2cd7b1.chunk.js",
-    "static/js/2.ac2cd7b1.chunk.js.map": "/React-Portfolio/static/js/2.ac2cd7b1.chunk.js.map",
-    "index.html": "/React-Portfolio/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/React-Portfolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.ef83a70a.chunk.css.map": "/React-Portfolio/static/css/main.ef83a70a.chunk.css.map",
-    "static/js/2.ac2cd7b1.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.ac2cd7b1.chunk.js.LICENSE.txt",
-    "static/media/LitaBeachResume.8c9ce875.pdf": "/React-Portfolio/static/media/LitaBeachResume.8c9ce875.pdf",
-    "static/media/email.817b1334.jpg": "/React-Portfolio/static/media/email.817b1334.jpg",
-    "static/media/linkedinicon.9837d50f.jpg": "/React-Portfolio/static/media/linkedinicon.9837d50f.jpg",
-    "static/media/phone.ceb8b6cd.jpg": "/React-Portfolio/static/media/phone.ceb8b6cd.jpg",
-    "static/media/App.css": "/React-Portfolio/static/media/watercolor3.a163691c.jpg"
+    "main.css": "/MyPortfolio/static/css/main.3983a37c.chunk.css",
+    "main.js": "/MyPortfolio/static/js/main.0e97f3b8.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.0e97f3b8.chunk.js.map",
+    "runtime-main.js": "/MyPortfolio/static/js/runtime-main.f4a6f8db.js",
+    "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.f4a6f8db.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/MyPortfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ac2cd7b1.chunk.js": "/MyPortfolio/static/js/2.ac2cd7b1.chunk.js",
+    "static/js/2.ac2cd7b1.chunk.js.map": "/MyPortfolio/static/js/2.ac2cd7b1.chunk.js.map",
+    "index.html": "/MyPortfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/MyPortfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.3983a37c.chunk.css.map": "/MyPortfolio/static/css/main.3983a37c.chunk.css.map",
+    "static/js/2.ac2cd7b1.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.ac2cd7b1.chunk.js.LICENSE.txt",
+    "static/media/Lita-Beach-Resume.7119ece9.pdf": "/MyPortfolio/static/media/Lita-Beach-Resume.7119ece9.pdf",
+    "static/media/email.817b1334.jpg": "/MyPortfolio/static/media/email.817b1334.jpg",
+    "static/media/linkedinicon.9837d50f.jpg": "/MyPortfolio/static/media/linkedinicon.9837d50f.jpg",
+    "static/media/phone.ceb8b6cd.jpg": "/MyPortfolio/static/media/phone.ceb8b6cd.jpg",
+    "static/media/App.css": "/MyPortfolio/static/media/watercolor3.a163691c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.48332091.js",
+    "static/js/runtime-main.f4a6f8db.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.ac2cd7b1.chunk.js",
-    "static/css/main.ef83a70a.chunk.css",
-    "static/js/main.097f609a.chunk.js"
+    "static/css/main.3983a37c.chunk.css",
+    "static/js/main.0e97f3b8.chunk.js"
   ]
 }
