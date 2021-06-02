@@ -18,7 +18,7 @@ function Home() {
               alt="headshot of a woman smiling." />
           </div>
     
-          <div className="col-lg-9 contact-info text"  id="aboutMe">
+          <div className="col-lg-9 about-info text"  id="aboutMe">
             <p>Enthusiastic entry level web developer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including Javascript, Node, mySQL, Sequelize, Express, APIs, Handlebars, HTML5, CSS, and Bootstrap.  Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
             </p>
             {/* <p>
