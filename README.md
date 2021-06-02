@@ -18,8 +18,8 @@ Published at: https://litabeach.github.io/React-Portfolio/
 
 Scroll and click links to navigate the pages. 
 
-![Home page](src/images/home.png)
-![Contact page](src/images/contact.png)
+![Home page](public/img/home.png)
+![Contact page](public/img/contact.png)
 
 
 ## Credits
