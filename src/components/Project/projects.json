@@ -12,16 +12,16 @@
       "deployedlink": "https://cup-of-sugar-application.herokuapp.com/"
     },
     {
-      "id": 20,
-      "title": "Travel Today",
-      "description": " A travel app that does the hard work for you!",
-      "tech": " Travel Today utilizes Google Places API, Google Maps API, jQuery, JavaScript, Bootstrap and CSS.",
-      "image1":  "https://github.com/Litabeach/Travel-Today/raw/main/Assets/screenshot.png",
-      "alt1": "travel today homepage",
-      "image2":  "https://github.com/Litabeach/Portfolio/blob/main/02-CSS-Bootstrap/Assets/Images2/traveltoday2.png?raw=true",
-      "alt2": "screenshot of travel today app search",
-      "githublink": "https://github.com/Litabeach/Travel-Today",
-      "deployedlink": "https://litabeach.github.io/Travel-Today/"
+      "id": 50,
+      "title": "Snuze",
+      "description": "An app designed to meet the needs of users who want some extra help to fall asleep comfortably.",
+      "tech": "Built with MongoDB, Express, React, Node, JavaScript, Twilio, Web Speech API, Bootstrap, HTML, CSS, Axios",
+      "image1": "https://user-images.githubusercontent.com/74335621/119747814-23fbbf80-be59-11eb-9edb-09f1ab6893a3.png",
+      "alt1": "a screenshot of login page of Snuze",
+      "image2": "https://user-images.githubusercontent.com/74335621/119746645-856e5f00-be56-11eb-8047-7027eee7da4e.png",
+      "alt2": "a screenshot of the record page on Snuze",
+      "githublink": "https://github.com/Litabeach/Snueze",
+      "deployedlink": "https://snueze.herokuapp.com/"
     },
     {
       "id": 30,
@@ -36,6 +36,18 @@
       "deployedlink": "https://bookworm-application.herokuapp.com/"
     },
     {
+      "id": 20,
+      "title": "Travel Today",
+      "description": " A travel app that does the hard work for you!",
+      "tech": " Travel Today utilizes Google Places API, Google Maps API, jQuery, JavaScript, Bootstrap and CSS.",
+      "image1":  "https://github.com/Litabeach/Travel-Today/raw/main/Assets/screenshot.png",
+      "alt1": "travel today homepage",
+      "image2":  "https://github.com/Litabeach/Portfolio/blob/main/02-CSS-Bootstrap/Assets/Images2/traveltoday2.png?raw=true",
+      "alt2": "screenshot of travel today app search",
+      "githublink": "https://github.com/Litabeach/Travel-Today",
+      "deployedlink": "https://litabeach.github.io/Travel-Today/"
+    },
+    {
       "id": 40,
       "title": "Workout Tracker",
       "description": "An app to view, create, and track daily workouts. Statistics for the last 7 workouts workouts are available on the stats page. ",
@@ -47,22 +59,11 @@
       "githublink": "https://github.com/Litabeach/Workout-Tracker",
       "deployedlink": "https://shielded-dusk-73422.herokuapp.com/"
     },
-    {
-      "id": 50,
-      "title": "Work-E-Pedia",
-      "description": "View a directory of employees. Sort and search the directory by name.",
-      "tech": "Built with React",
-      "image1": "https://github.com/Litabeach/React-Employee-Directory/raw/main/public/screenshot.png",
-      "alt1": "a screenshot of home page of Work-E-Pedia",
-      "image2": "https://github.com/Litabeach/React-Employee-Directory/raw/main/public/screenshot2.png",
-      "alt2": "a screenshot of the a search on Work-E-Pedia",
-      "githublink": "https://github.com/Litabeach/Work-E-Pedia",
-      "deployedlink": "https://litabeach.github.io/Work-E-Pedia/"
-    },
+    
     {
       "id": 60,
       "title": "Budget Anywhere",
-      "description": "An app for users to add expenses and deposits to their budget. Users are able to enter transactions offline. The transactions entered offline will automatically be populated to the database when the user regains internet connection..",
+      "description": "An app for users to add expenses and deposits to their budget. Users are able to enter transactions offline. The transactions entered offline will automatically be populated to the database when the user regains internet connection.",
       "tech": "Built with IndexDB, Mongoose, Mongo, MongoDB Atlas, Javascript, Express, and Node.js.",
       "image1": "https://github.com/Litabeach/Budget-Anywhere/raw/main/public/images/budget.png",
       "alt1": "a screenshot of the budget anywhere app online",

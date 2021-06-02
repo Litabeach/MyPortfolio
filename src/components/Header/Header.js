@@ -14,13 +14,13 @@ function Header() {
             <div className="navbar-collapse collapse w-100" id="collapsingNavbar3">
                 <ul className="nav navbar-nav ml-auto w-100 justify-content-end">
                     <li className="nav-item">
-                    <Link to="/" className="nav-link" activeClassName="nav-link active">About</Link></li>
+                    <Link to="/" className="nav-link" activeclassname="nav-link active">About</Link></li>
                     <li className="nav-item">
-                    <Link to="/contact" className="nav-link" activeClassName="nav-link active">Contact</Link></li>
+                    <Link to="/contact" className="nav-link" activeclassname="nav-link active">Contact</Link></li>
                     <li className="nav-item">
-                    <Link to="/portfolio" className="nav-link" activeClassName="nav-link active">Portfolio</Link></li>
+                    <Link to="/portfolio" className="nav-link" activeclassname="nav-link active">Portfolio</Link></li>
                     <li className="nav-item">
-                        <a className="nav-link" activeClassName="nav-link active" href={resume}>Resume</a>
+                        <a className="nav-link" activeclassname="nav-link active" href={resume}>Resume</a>
                     </li>
                 </ul>
             </div>
