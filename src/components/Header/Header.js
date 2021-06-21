@@ -1,14 +1,16 @@
 import React from "react";
 import "./style.css";
 import { Link } from "react-router-dom";
-import resume from "../../assets/Lita-Beach-Resume.pdf"
+import resume from "../../assets/Lita-Beach-Resume.pdf";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function Header() {
     return (
         <nav className="navbar navbar-dark navbar-expand-md justify-content-center">
             <Link className="navbar-brand d-flex w-50 mr-auto" to="/">Lita Beach</Link>
-            <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar3">
+            <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar3"  >
+              
                 <span className="navbar-toggler-icon"></span>
             </button>
             <div className="navbar-collapse collapse w-100" id="collapsingNavbar3">
@@ -29,3 +31,4 @@ function Header() {
 }
 
 export default Header;
+

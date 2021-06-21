@@ -85,6 +85,11 @@
   .portfolio {
     width:90%;
   }
+
+  .about-info {
+    width:90%;
+    margin-left: 5%;
+  }
 }
 
 @media only screen and (max-width: 375px) {
@@ -100,5 +105,10 @@
   }
   .portfolio {
     width:90%;
+  }
+  .about-info {
+    width:90%;
+    margin: 5%;
+    
   }
 }
