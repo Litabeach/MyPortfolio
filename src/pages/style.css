@@ -41,10 +41,6 @@
   color:whitesmoke;
 }
 
-/* .portfolio2{
-  width:800px;
-} */
-
 .port-image{
   width: 800px;
   margin:auto
@@ -62,7 +58,7 @@
 
 @media screen and (max-width:992px) {
   .headshot { 
-    margin-left:10%;
+    margin-left:25%;
   }
  .text {
     width:80%;
@@ -78,7 +74,7 @@
 
 @media only screen and (max-width: 667px) {
   .headshot { 
-    margin-left:10%;
+    margin-left:25%;
   }
  .text {
     width:70%;
@@ -99,7 +95,7 @@
 
 @media only screen and (max-width: 375px) {
   .headshot { 
-    margin-left:10%;
+    margin-left:25%;
   }
  .text {
     width:70%;
