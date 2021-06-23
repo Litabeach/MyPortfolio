@@ -5,7 +5,7 @@ import "./style.css";
 function Project(props) {
   return (
     // <h1>projects div here</h1>
-    <main className="container">
+    <main className="container portContainer">
       <div className="row">
         <div className="col-lg-12  portfolio">
           <h3>{props.title}</h3>

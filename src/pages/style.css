@@ -107,13 +107,16 @@
     margin-bottom: 20px;
   }
   .portfolio {
-    width:90%;
+    width:10%;
     margin:5%;
   }
   .about-info {
     width:90%;
     margin: 5%;
-    
+  }
+
+  .port-image{
+    width: 800px;
   }
 }
 
