@@ -33,13 +33,17 @@
 
 .portfolio{
   background-color:rgb(121, 139, 108);
-  width: 50%;
+  width: 90%;
   margin: auto;
   padding: 40px;
   border-radius: 10%;
   text-align: center;
   color:whitesmoke;
 }
+
+/* .portfolio2{
+  width:800px;
+} */
 
 .port-image{
   width: 800px;

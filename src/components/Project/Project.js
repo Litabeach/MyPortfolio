@@ -5,8 +5,8 @@ import "./style.css";
 function Project(props) {
   return (
     // <h1>projects div here</h1>
-
-      
+    <main className="container">
+      <div className="row">
         <div className="col-lg-12  portfolio">
           <h3>{props.title}</h3>
           <h5>{props.description} </h5>
@@ -20,7 +20,8 @@ function Project(props) {
               alt={props.alt2} />
           </a>
         </div>
-     
+      </div>
+    </main>
 
   );
 }
