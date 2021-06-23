@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.78c0ad51.chunk.css",
+    "main.css": "/MyPortfolio/static/css/main.c4624440.chunk.css",
     "main.js": "/MyPortfolio/static/js/main.4628aa45.chunk.js",
     "main.js.map": "/MyPortfolio/static/js/main.4628aa45.chunk.js.map",
     "runtime-main.js": "/MyPortfolio/static/js/runtime-main.f4a6f8db.js",
@@ -10,7 +10,7 @@
     "static/js/2.1a5eeee4.chunk.js.map": "/MyPortfolio/static/js/2.1a5eeee4.chunk.js.map",
     "index.html": "/MyPortfolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/MyPortfolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.78c0ad51.chunk.css.map": "/MyPortfolio/static/css/main.78c0ad51.chunk.css.map",
+    "static/css/main.c4624440.chunk.css.map": "/MyPortfolio/static/css/main.c4624440.chunk.css.map",
     "static/js/2.1a5eeee4.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.1a5eeee4.chunk.js.LICENSE.txt",
     "static/media/Lita-Beach-Resume.7119ece9.pdf": "/MyPortfolio/static/media/Lita-Beach-Resume.7119ece9.pdf",
     "static/media/email.817b1334.jpg": "/MyPortfolio/static/media/email.817b1334.jpg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.f4a6f8db.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.1a5eeee4.chunk.js",
-    "static/css/main.78c0ad51.chunk.css",
+    "static/css/main.c4624440.chunk.css",
     "static/js/main.4628aa45.chunk.js"
   ]
 }
