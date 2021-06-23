@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.a3b98f3f.chunk.css",
-    "main.js": "/MyPortfolio/static/js/main.a9daff7c.chunk.js",
-    "main.js.map": "/MyPortfolio/static/js/main.a9daff7c.chunk.js.map",
+    "main.css": "/MyPortfolio/static/css/main.904c61c2.chunk.css",
+    "main.js": "/MyPortfolio/static/js/main.4628aa45.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.4628aa45.chunk.js.map",
     "runtime-main.js": "/MyPortfolio/static/js/runtime-main.f4a6f8db.js",
     "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.f4a6f8db.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/MyPortfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.ac2cd7b1.chunk.js": "/MyPortfolio/static/js/2.ac2cd7b1.chunk.js",
-    "static/js/2.ac2cd7b1.chunk.js.map": "/MyPortfolio/static/js/2.ac2cd7b1.chunk.js.map",
+    "static/js/2.1a5eeee4.chunk.js": "/MyPortfolio/static/js/2.1a5eeee4.chunk.js",
+    "static/js/2.1a5eeee4.chunk.js.map": "/MyPortfolio/static/js/2.1a5eeee4.chunk.js.map",
     "index.html": "/MyPortfolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/MyPortfolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.a3b98f3f.chunk.css.map": "/MyPortfolio/static/css/main.a3b98f3f.chunk.css.map",
-    "static/js/2.ac2cd7b1.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.ac2cd7b1.chunk.js.LICENSE.txt",
+    "static/css/main.904c61c2.chunk.css.map": "/MyPortfolio/static/css/main.904c61c2.chunk.css.map",
+    "static/js/2.1a5eeee4.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.1a5eeee4.chunk.js.LICENSE.txt",
     "static/media/Lita-Beach-Resume.7119ece9.pdf": "/MyPortfolio/static/media/Lita-Beach-Resume.7119ece9.pdf",
     "static/media/email.817b1334.jpg": "/MyPortfolio/static/media/email.817b1334.jpg",
+    "static/media/headshot.af932e47.jpg": "/MyPortfolio/static/media/headshot.af932e47.jpg",
     "static/media/linkedinicon.9837d50f.jpg": "/MyPortfolio/static/media/linkedinicon.9837d50f.jpg",
     "static/media/phone.ceb8b6cd.jpg": "/MyPortfolio/static/media/phone.ceb8b6cd.jpg",
     "static/media/App.css": "/MyPortfolio/static/media/watercolor3.a163691c.jpg"
@@ -21,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.f4a6f8db.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.ac2cd7b1.chunk.js",
-    "static/css/main.a3b98f3f.chunk.css",
-    "static/js/main.a9daff7c.chunk.js"
+    "static/js/2.1a5eeee4.chunk.js",
+    "static/css/main.904c61c2.chunk.css",
+    "static/js/main.4628aa45.chunk.js"
   ]
 }
