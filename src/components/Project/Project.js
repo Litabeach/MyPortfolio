@@ -5,7 +5,7 @@ import "./style.css";
 function Project(props) {
   return (
     // <h1>projects div here</h1>
-    <main className="container">
+
       
         <div className="col-lg-12  portfolio">
           <h3>{props.title}</h3>
@@ -20,7 +20,7 @@ function Project(props) {
               alt={props.alt2} />
           </a>
         </div>
-      </main>
+     
 
   );
 }
