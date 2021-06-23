@@ -33,7 +33,7 @@
 
 .portfolio{
   background-color:rgb(121, 139, 108);
-  width: 90%;
+  width: 75%;
   margin: auto;
   padding: 40px;
   border-radius: 10%;
@@ -58,7 +58,7 @@
 
 @media screen and (max-width:992px) {
   .headshot { 
-    margin-left:25%;
+    margin-left:18%;
   }
  .text {
     width:80%;
@@ -68,13 +68,13 @@
     margin-bottom: 20px;
   }
   .portfolio {
-    width:90%;
+    width:850px;
   }
 }
 
 @media only screen and (max-width: 667px) {
   .headshot { 
-    margin-left:25%;
+    margin-left:15%;
   }
  .text {
     width:70%;
@@ -84,7 +84,7 @@
     margin-bottom: 20px;
   }
   .portfolio {
-    width:90%;
+    width: 625px;;
   }
 
   .about-info {
@@ -95,7 +95,7 @@
 
 @media only screen and (max-width: 375px) {
   .headshot { 
-    margin-left:25%;
+    margin-left:15%;
   }
  .text {
     width:70%;
@@ -105,7 +105,28 @@
     margin-bottom: 20px;
   }
   .portfolio {
+    width:325px;
+  }
+  .about-info {
     width:90%;
+    margin: 5%;
+    
+  }
+}
+
+@media only screen and (max-width: 414px) {
+  .headshot { 
+    margin-left:10%;
+  }
+ .text {
+    width:70%;
+  }
+  .contact-info {
+    width:80%;
+    margin-bottom: 20px;
+  }
+  .portfolio {
+    width:380px;
   }
   .about-info {
     width:90%;
